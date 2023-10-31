@@ -1,3 +1,5 @@
+Alunos Diego Priess e Guilherme Bertoldi
+
 1° Clone o repostório
 
 2° Vá até o arquivo pom.xml e atualize as dependencias do projeto
